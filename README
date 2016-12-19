@@ -1,0 +1,4 @@
+
+root@host:~# docker build -t debian-saltstack-base debian-saltstack-base/
+root@host:~# docker build -t debian-saltstack-master debian-saltstack-master/
+root@host:~# docker build -t debian-saltstack-minion debian-saltstack-minion/
